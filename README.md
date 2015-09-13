@@ -1,5 +1,7 @@
 This repository intentionally does not have any `.gitignore` files in order to include all project files, immediate files and binary files.
-Get started by rooting your Android device and copying the APK of the NIStreamer (`/Android/NIViewer`). Using a development environment is recommended to launch testjni (`/Windows/testjni`).
+Get started by rooting your Android device and copying the APK of the NIStreamer (`/Android/NIViewer`). Using a development environment is recommended to launch testjni (`/Windows/testjni`). Detailed information about the architecture can be found in the paper:
+
+Eberhardt, B. (2015). Distributed streaming and compression architecture for point clouds from mobile devices.
 # Table of Contents
 - [/Android](#android)
 	- [/Android/NIViewer](#androidniviewer)

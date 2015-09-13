@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="OpenNI2 Redist">
+    <CLASSES>
+      <root url="file://C:/Program Files/OpenNI2/Redist" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://C:/Program Files/OpenNI2/Redist" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://C:/Program Files/OpenNI2/Redist" recursive="false" />
+  </library>
+</component>

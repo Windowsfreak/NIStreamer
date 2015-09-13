@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1433170682 source:c:\users\mathis\desktop\charls\header.cpp
+	"config.h"
+	"util.h"
+	"header.h"
+	"streams.h"
+	"decoderstrategy.h"
+	"encoderstrategy.h"
+	<memory>
+
+1433170680 c:\users\mathis\desktop\charls\config.h
+	<assert.h>
+	<stdint.h>
+
+1433170686 c:\users\mathis\desktop\charls\util.h
+	<stdlib.h>
+	<string.h>
+	"publictypes.h"
+
+1433170682 c:\users\mathis\desktop\charls\publictypes.h
+	"config.h"
+
+1433170682 c:\users\mathis\desktop\charls\header.h
+	"streams.h"
+
+1433170682 c:\users\mathis\desktop\charls\streams.h
+	<memory>
+	<vector>
+	"util.h"
+
+1433170680 c:\users\mathis\desktop\charls\decoderstrategy.h
+	"streams.h"
+	"processline.h"
+	"config.h"
+	"util.h"
+
+1433170682 c:\users\mathis\desktop\charls\processline.h
+	"colortransform.h"
+
+1433170680 c:\users\mathis\desktop\charls\colortransform.h
+
+1433170680 c:\users\mathis\desktop\charls\encoderstrategy.h
+	"processline.h"
+	"decoderstrategy.h"
+
+1437092656 source:c:\users\mathis\desktop\charls\interface.cpp
+	"config.h"
+	"util.h"
+	"interface.h"
+	"header.h"
+
+1437092656 c:\users\mathis\desktop\charls\interface.h
+	"jni.h"
+	"publictypes.h"
+
+1433170682 source:c:\users\mathis\desktop\charls\jpegls.cpp
+	"config.h"
+	"util.h"
+	"streams.h"
+	"header.h"
+	<math.h>
+	<vector>
+	<stdio.h>
+	<iostream>
+	"decoderstrategy.h"
+	"encoderstrategy.h"
+	"context.h"
+	"contextrunmode.h"
+	"lookuptable.h"
+	"losslesstraits.h"
+	"defaulttraits.h"
+	"scan.h"
+
+1433170680 c:\users\mathis\desktop\charls\context.h
+
+1433170680 c:\users\mathis\desktop\charls\contextrunmode.h
+
+1433170682 c:\users\mathis\desktop\charls\lookuptable.h
+
+1433170682 c:\users\mathis\desktop\charls\losslesstraits.h
+	"header.h"
+
+1433170680 c:\users\mathis\desktop\charls\defaulttraits.h
+
+1433170682 c:\users\mathis\desktop\charls\scan.h
+	"lookuptable.h"
+
+1433170682 source:c:\users\mathis\desktop\charls\stdafx.cpp
+
+1437087529 c:\program files\java\jdk1.7.0_79\include\jni.h
+	<stdio.h>
+	<stdarg.h>
+	"win32/jni_md.h"
+
+1434574603 c:\program files\java\jdk1.7.0_79\include\win32\jni_md.h
+
+1437090792 c:\users\mathis\desktop\charls\jni.h
+	<stdio.h>
+	<stdarg.h>
+	"win32/jni_md.h"
+
+1435262162 c:\users\mathis\desktop\charls\win32\jni_md.h
+

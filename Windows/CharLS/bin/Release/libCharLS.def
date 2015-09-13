@@ -1,0 +1,9 @@
+EXPORTS
+    Java_de_windowsfreak_testjni_codec_CharLSCodec_decode @1
+    Java_de_windowsfreak_testjni_codec_CharLSCodec_encode @2
+    Java_de_windowsfreak_testjni_codec_CharLSCodec_hello @3
+    JpegLsDecode @4
+    JpegLsDecodeRect @5
+    JpegLsEncode @6
+    JpegLsReadHeader @7
+    JpegLsVerifyEncode @8

@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="openni::OpenNI::DeviceConnected\lListener",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classopenni_1_1_open_n_i_1_1_device_connected_listener.html"];
+}

@@ -1,0 +1,6 @@
+EXPORTS
+    JpegLsDecode@20 @1
+    JpegLsDecodeRect@36 @2
+    JpegLsEncode@24 @3
+    JpegLsReadHeader@12 @4
+    JpegLsVerifyEncode@16 @5

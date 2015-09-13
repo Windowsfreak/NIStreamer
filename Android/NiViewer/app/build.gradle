@@ -1,0 +1,43 @@
+apply plugin: 'com.android.model.application'
+
+
+model {
+    android.ndk {
+        moduleName = "charls"
+        stl = "stlport_shared"
+        CFlags += "-fexceptions"
+        cppFlags += "-fexceptions"
+    }
+    android {
+        compileSdkVersion = 22
+        buildToolsVersion = "23.0.0 rc3"
+        defaultConfig.with {
+            applicationId = "de.windowsfreak.nistreamer"
+            minSdkVersion.apiLevel = 17
+            targetSdkVersion.apiLevel = 22
+            versionCode = 1
+            versionName = "1.0"
+        }
+    }
+    android.buildTypes {
+
+        release {
+            isMinifyEnabled = false
+            //proguardFiles += getDefaultProguardFile('proguard-android.txt')
+            proguardFiles += file('proguard-rules.pro')
+        }
+        /*debug {
+            //debuggable = true
+            //jniDebuggable = true
+        }*/
+    }
+    android.productFlavors {
+        create("fat")
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v13:22.2.0'
+    compile 'com.android.support:appcompat-v7:22.2.0'
+    compile files('libs/hadoop-common-2.7.1.jar')
+}

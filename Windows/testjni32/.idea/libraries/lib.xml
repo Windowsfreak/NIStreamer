@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://C:/Program Files (x86)/Sun Microsystems/Java Advanced Imaging 1.1.3/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://C:/Program Files (x86)/Sun Microsystems/Java Advanced Imaging 1.1.3/lib" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://C:/Program Files (x86)/Sun Microsystems/Java Advanced Imaging 1.1.3/lib" recursive="false" />
+  </library>
+</component>

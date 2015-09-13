@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="uiDesigner">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/redist/forms_rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

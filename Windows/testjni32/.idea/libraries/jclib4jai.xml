@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jclib4jai">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../ImageIO/src/share/jclib4jai" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../ImageIO/src/share/jclib4jai/windows/i386" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../ImageIO/src/share/jclib4jai" recursive="false" />
+  </library>
+</component>

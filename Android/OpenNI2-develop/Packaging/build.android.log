@@ -1,0 +1,1325 @@
+Updated local.properties
+Updated file C:\Software\OpenNI2-develop\Wrappers\java\proguard-project.txt
+It seems that there are sub-projects. If you want to update them
+please use the --subprojects parameter.
+Buildfile: c:\Software\OpenNI2-develop\Wrappers\java\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at C:\Software\android-sdk
+
+-setup:
+     [echo] Project Name: OpenNIForAndroid
+  [gettype] Project Type: Android Library
+
+-pre-clean:
+
+android_rules.clean:
+   [delete] Deleting directory c:\Software\OpenNI2-develop\Wrappers\java\bin
+   [delete] Deleting directory c:\Software\OpenNI2-develop\Wrappers\java\gen
+[getlibpath] Library dependencies:
+[getlibpath] No Libraries
+   [subant] No sub-builds to iterate on
+
+clean:
+     [exec] Android NDK: WARNING: APP_PLATFORM android-21 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+     [exec] [armeabi-v7a] Clean          : DepthUtils [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : OniFile [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : OpenNI2 [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : OpenNI2.jni [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : PS1080 [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : PSLink [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : XnLib [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : stdc++ [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : usb [armeabi-v7a]
+
+BUILD SUCCESSFUL
+Total time: 8 seconds
+Updated local.properties
+Updated file C:\Software\OpenNI2-develop\Samples\SimpleRead.Android\proguard-project.txt
+It seems that there are sub-projects. If you want to update them
+please use the --subprojects parameter.
+Buildfile: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at C:\Software\android-sdk
+
+-setup:
+     [echo] Project Name: SimpleRead
+  [gettype] Project Type: Application
+
+-pre-clean:
+
+clean:
+   [delete] Deleting directory c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin
+   [delete] Deleting directory c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\gen
+[getlibpath] Library dependencies:
+[getlibpath] 
+[getlibpath] ------------------
+[getlibpath] Ordered libraries:
+
+nodeps:
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at C:\Software\android-sdk
+
+-setup:
+     [echo] Project Name: OpenNIForAndroid
+  [gettype] Project Type: Android Library
+
+-pre-clean:
+
+android_rules.clean:
+
+clean:
+     [exec] Android NDK: WARNING: APP_PLATFORM android-21 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+     [exec] [armeabi-v7a] Clean          : DepthUtils [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : OniFile [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : OpenNI2 [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : OpenNI2.jni [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : PS1080 [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : PSLink [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : XnLib [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : stdc++ [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : usb [armeabi-v7a]
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+Updated local.properties
+Updated file C:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\proguard-project.txt
+It seems that there are sub-projects. If you want to update them
+please use the --subprojects parameter.
+Buildfile: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at C:\Software\android-sdk
+
+-setup:
+     [echo] Project Name: SimpleViewer
+  [gettype] Project Type: Application
+
+-pre-clean:
+
+clean:
+   [delete] Deleting directory c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin
+   [delete] Deleting directory c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\gen
+[getlibpath] Library dependencies:
+[getlibpath] 
+[getlibpath] ------------------
+[getlibpath] Ordered libraries:
+
+nodeps:
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at C:\Software\android-sdk
+
+-setup:
+     [echo] Project Name: OpenNIForAndroid
+  [gettype] Project Type: Android Library
+
+-pre-clean:
+
+android_rules.clean:
+
+clean:
+     [exec] Android NDK: WARNING: APP_PLATFORM android-21 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+     [exec] [armeabi-v7a] Clean          : DepthUtils [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : OniFile [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : OpenNI2 [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : OpenNI2.jni [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : PS1080 [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : PSLink [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : XnLib [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : stdc++ [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : usb [armeabi-v7a]
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+Updated local.properties
+Updated file C:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\proguard-project.txt
+It seems that there are sub-projects. If you want to update them
+please use the --subprojects parameter.
+Buildfile: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at C:\Software\android-sdk
+
+-setup:
+     [echo] Project Name: NiViewer
+  [gettype] Project Type: Application
+
+-pre-clean:
+
+clean:
+   [delete] Deleting directory c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin
+   [delete] Deleting directory c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\gen
+[getlibpath] Library dependencies:
+[getlibpath] 
+[getlibpath] ------------------
+[getlibpath] Ordered libraries:
+
+nodeps:
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at C:\Software\android-sdk
+
+-setup:
+     [echo] Project Name: OpenNIForAndroid
+  [gettype] Project Type: Android Library
+
+-pre-clean:
+
+android_rules.clean:
+
+clean:
+     [exec] Android NDK: WARNING: APP_PLATFORM android-21 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+     [exec] [armeabi-v7a] Clean          : DepthUtils [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : OniFile [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : OpenNI2 [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : OpenNI2.jni [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : PS1080 [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : PSLink [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : XnLib [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : stdc++ [armeabi-v7a]
+     [exec] [armeabi-v7a] Clean          : usb [armeabi-v7a]
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+Updated local.properties
+Updated file C:\Software\OpenNI2-develop\Wrappers\java\proguard-project.txt
+Buildfile: c:\Software\OpenNI2-develop\Wrappers\java\build.xml
+
+-set-mode-check:
+
+-set-release-mode:
+
+-release-obfuscation-check:
+     [echo] proguard.config is ${proguard.config}
+
+-pre-build:
+     [exec] Android NDK: WARNING: APP_PLATFORM android-21 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+     [exec] [armeabi-v7a] Compile++ thumb: OniFile <= DataRecords.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OniFile <= PlayerCodecFactory.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OniFile <= PlayerDevice.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OniFile <= PlayerDriver.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OniFile <= PlayerNode.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OniFile <= PlayerSource.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OniFile <= PlayerStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OniFile <= XnCodec.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OniFile <= XnStreamCompression.cpp
+     [exec] [armeabi-v7a] Compile thumb  : usb <= core.c
+     [exec] [armeabi-v7a] Compile thumb  : usb <= descriptor.c
+     [exec] [armeabi-v7a] Compile thumb  : usb <= io.c
+     [exec] [armeabi-v7a] Compile thumb  : usb <= sync.c
+     [exec] [armeabi-v7a] Compile thumb  : usb <= linux_usbfs.c
+     [exec] [armeabi-v7a] Compile thumb  : usb <= threads_posix.c
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnDump.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnDumpFileWriter.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnErrorLogger.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnFPSCalculator.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnFiles.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnJpeg.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLib.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLog.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLogAndroidWriter.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLogConsoleWriter.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLogFileWriter.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnOS.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnOSMemoryProfiling.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnProfiling.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnScheduler.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnStatus.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnStrings.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnSytmmetricMatrix3x3.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnThreads.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnUSB.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnVector3D.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxCriticalSections.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxDebug.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxEvents.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxFiles.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxINI.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxKeyboard.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxMemory.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxMutex.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxNetwork.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxPosixEvents.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxPosixNamedEvents.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxProcesses.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxSharedLibs.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxSharedMemory.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxStrings.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxSysVNamedEvents.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxThreads.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxTime.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxUSB.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: XnLib <= XnLinuxUSBDevice.cpp
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jcapimin.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jcapistd.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jccoefct.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jccolor.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jcdctmgr.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jchuff.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jcinit.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jcmainct.c
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= LinkOniStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= LinkOniMapStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= LinkOniDriver.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= LinkOniIRStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= LinkOniDepthStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= LinkOniDevice.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnSyncServerSocketConnection.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnSyncSocketConnection.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= LinkExportedOniDriver.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnSocketConnectionFactory.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnSocketInConnection.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnShiftToDepth.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnServerSocketInConnection.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkYuv422ToRgb888Parser.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkYuvToRgb.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkUnpackedS2DParser.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkStatusCodes.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkUnpackedDataReductionParser.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkResponseMsgParser.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkProtoUtils.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkPacked10BitParser.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkOutputStreamsMgr.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkOutputStream.cpp
+     [exec] [armeabi-v7a] SharedLibrary  : libusb.so
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkOutputDataEndpoint.cpp
+     [exec] [armeabi-v7a] Install        : libusb.so => libs/armeabi-v7a/libusb.so
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkMsgParser.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkMsgEncoder.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkLogParser.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkInputStreamsMgr.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkInputStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkInputDataEndpoint.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkFrameInputStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkControlEndpoint.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLinkContInputStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLink6BitParser.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLink24zYuv422Parser.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLink16zParser.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLink12BitS2DParser.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnLink11BitS2DParser.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnClientUSBInDataEndpoint.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnClientUSBOutDataEndpoint.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnClientUSBControlEndpoint.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnClientUSBConnectionFactory.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnClientSyncSocketConnection.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= XnClientSocketInConnection.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= PrimeClient.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= PS1200Device.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= LinkErrorCodes.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PSLink <= LinkDeviceEnumeration.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: DepthUtils <= DepthUtilsImpl.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: DepthUtils <= DepthUtils.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnWholePacketProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= YUV.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnWavelengthCorrectionDebugProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnUncompressedYUYVtoRGBImageProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnUncompressedYUV422toRGBImageProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnUncompressedDepthProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnUncompressedBayerProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnTecDebugProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnStreamProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnSensorStreamHelper.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnSensorImageStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnSensorIRStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnSensorFixedParams.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnSensorFirmwareParams.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnSensorFirmware.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnSensorFPS.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnSensorDepthStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnSensorAudioStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnSensor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnPassThroughImageProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnPacked12DepthProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnPSCompressedImageProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnPacked11DepthProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnJpegToRGBImageProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnPSCompressedDepthProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnNesaDebugProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnJpegImageProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnImageProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnHostProtocol.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnIRProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnGMCDebugProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnGeneralDebugProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnFrameStreamProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnFirmwareStreams.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnFirmwareInfo.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnFirmwareCommands.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnDeviceSensorProtocol.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnDeviceSensorInit.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnDeviceSensorIO.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnDeviceEnumeration.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnDepthProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnDataProcessorHolder.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnDataProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnCmosInfo.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnBayerImageProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnAudioProcessor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= Uncomp.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= Bayer.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnFormatsStatus.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnFormatsMirror.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnFormats.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnOniStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnOniIRStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnOniMapStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnOniDriver.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnOniDevice.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnOniDepthStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnOniColorStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnExportedOniDriver.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnStringProperty.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnStreamingStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnShiftToDepthStreamHelper.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnShiftToDepth.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnRealProperty.cpp
+     [exec] [armeabi-v7a] StaticLibrary  : libDepthUtils.a
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnPropertySet.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnProperty.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnPixelStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnIntPropertySynchronizer.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnImageStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnIntProperty.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnIRStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnGeneralProperty.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnFrameStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnFrameBufferManager.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnDeviceStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnDeviceModuleHolder.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnDeviceModule.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnDepthStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnDeviceBase.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnDDKStatus.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnDDK.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnAudioStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnActualStringProperty.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnActualRealProperty.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnActualPropertiesHash.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnActualIntProperty.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnActualGeneralProperty.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnIONetworkStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnIOFileStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnCoreStatus.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnCore.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: PS1080 <= XnBuffer.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2.jni <= org_openni_android_OpenNIView.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2.jni <= OpenNI.jni.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2.jni <= org_openni_NativeMethods.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= XnCodec.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= XnStreamCompression.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= OpenNI.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= OniSyncedStreamsFrameHolder.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= OniStreamFrameHolder.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= OniStream.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= OniSensor.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= OniRecorder.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= OniFrameManager.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= OniFileRecorder.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= OniDriverHandler.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= OniDeviceDriver.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= OniDevice.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= OniDataRecords.cpp
+     [exec] [armeabi-v7a] Compile++ thumb: OpenNI2 <= OniContext.cpp
+     [exec] [armeabi-v7a] StaticLibrary  : libstdc++.a
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jutils.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jquant2.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jquant1.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jmemnobs.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jmemmgr.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jidctred.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jidctint.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jidctfst.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jidctflt.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jfdctint.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jfdctfst.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jfdctflt.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jerror.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdtrans.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdsample.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdpostct.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdphuff.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdmerge.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdmaster.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdmarker.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdmainct.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdinput.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdhuff.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jddctmgr.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdcolor.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdcoefct.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdatasrc.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdatadst.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdapistd.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jdapimin.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jctrans.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jcsample.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jcprepct.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jcparam.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jcphuff.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jcomapi.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jcmaster.c
+     [exec] [armeabi-v7a] Compile thumb  : XnLib <= jcmarker.c
+     [exec] [armeabi-v7a] StaticLibrary  : libXnLib.a
+     [exec] [armeabi-v7a] SharedLibrary  : libOniFile.so
+     [exec] [armeabi-v7a] SharedLibrary  : libPSLink.so
+     [exec] [armeabi-v7a] Install        : libOniFile.so => libs/armeabi-v7a/libOniFile.so
+     [exec] [armeabi-v7a] Install        : libPSLink.so => libs/armeabi-v7a/libPSLink.so
+     [exec] [armeabi-v7a] SharedLibrary  : libPS1080.so
+     [exec] [armeabi-v7a] Install        : libPS1080.so => libs/armeabi-v7a/libPS1080.so
+     [exec] [armeabi-v7a] SharedLibrary  : libOpenNI2.so
+     [exec] [armeabi-v7a] Install        : libOpenNI2.so => libs/armeabi-v7a/libOpenNI2.so
+     [exec] [armeabi-v7a] SharedLibrary  : libOpenNI2.jni.so
+     [exec] [armeabi-v7a] Install        : libOpenNI2.jni.so => libs/armeabi-v7a/libOpenNI2.jni.so
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at C:\Software\android-sdk
+
+-setup:
+     [echo] Project Name: OpenNIForAndroid
+  [gettype] Project Type: Android Library
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0 rc3
+     [echo] Resolving Build Target for OpenNIForAndroid...
+[gettarget] Project Target:   Android 5.1.1
+[gettarget] API level:        22
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Wrappers\java\bin
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Wrappers\java\bin\res
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Wrappers\java\bin\rsObj
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Wrappers\java\bin\rsLibs
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Wrappers\java\gen
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Wrappers\java\bin\classes
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Wrappers\java\bin\dexedLibs
+     [echo] ----------
+     [echo] Resolving Dependencies for OpenNIForAndroid...
+[dependency] Library dependencies:
+[dependency] No Libraries
+[dependency] 
+[dependency] ------------------
+     [echo] ----------
+     [echo] Building Libraries with 'release'...
+   [subant] No sub-builds to iterate on
+
+-code-gen:
+[mergemanifest] Merging AndroidManifest files into one.
+[mergemanifest] Manifest merger disabled. Using project manifest only.
+     [echo] Handling aidl files...
+     [aidl] No AIDL files to compile.
+     [echo] ----------
+     [echo] Handling RenderScript files...
+     [echo] ----------
+     [echo] Handling Resources...
+     [aapt] Generating resource IDs...
+     [aapt]     (skipping file '.gitignore' due to ANDROID_AAPT_IGNORE pattern '.*')
+     [echo] ----------
+     [echo] Handling BuildConfig class...
+[buildconfig] Generating BuildConfig class.
+
+-pre-compile:
+
+-compile:
+    [javac] Compiling 22 source files to c:\Software\OpenNI2-develop\Wrappers\java\bin\classes
+    [javac] warning: [options] source value 1.5 is obsolete and will be removed in a future release
+    [javac] warning: [options] target value 1.5 is obsolete and will be removed in a future release
+    [javac] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+    [javac] 3 warnings
+     [echo] Creating library output jar file...
+      [jar] Building jar: c:\Software\OpenNI2-develop\Wrappers\java\bin\classes.jar
+
+-post-compile:
+
+-obfuscate:
+
+-dex:
+     [echo] Library project: do not convert bytecode...
+
+-crunch:
+   [crunch] Crunching PNG Files in source dir: c:\Software\OpenNI2-develop\Wrappers\java\res
+   [crunch] To destination dir: c:\Software\OpenNI2-develop\Wrappers\java\bin\res
+   [crunch] Crunched 0 PNG files to update cache
+
+-package-resources:
+     [echo] Library project: do not package resources...
+
+-package:
+     [echo] Library project: do not package apk...
+
+-post-package:
+
+-release-prompt-for-password:
+
+-release-nosign:
+     [echo] 
+[propertyfile] Creating new property file: c:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+[propertyfile] Updating property file: c:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+[propertyfile] Updating property file: c:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+[propertyfile] Updating property file: c:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+
+-release-sign:
+
+-post-build:
+
+release:
+
+BUILD SUCCESSFUL
+Total time: 1 minute 33 seconds
+Updated local.properties
+Updated file C:\Software\OpenNI2-develop\Samples\SimpleRead.Android\proguard-project.txt
+Buildfile: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\build.xml
+
+-set-mode-check:
+
+-set-release-mode:
+
+-release-obfuscation-check:
+     [echo] proguard.config is ${proguard.config}
+
+-pre-build:
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at C:\Software\android-sdk
+
+-setup:
+     [echo] Project Name: SimpleRead
+  [gettype] Project Type: Application
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0 rc3
+     [echo] Resolving Build Target for SimpleRead...
+[gettarget] Project Target:   Android 5.1.1
+[gettarget] API level:        22
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\res
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\rsObj
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\rsLibs
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\gen
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\classes
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\dexedLibs
+     [echo] ----------
+     [echo] Resolving Dependencies for SimpleRead...
+[dependency] Library dependencies:
+[dependency] 
+[dependency] ------------------
+[dependency] Ordered libraries:
+[dependency] 
+[dependency] ------------------
+     [echo] ----------
+     [echo] Building Libraries with 'release'...
+
+nodeps:
+
+-set-mode-check:
+
+-set-release-mode:
+
+-release-obfuscation-check:
+     [echo] proguard.config is ${proguard.config}
+
+-pre-build:
+     [exec] Android NDK: WARNING: APP_PLATFORM android-21 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+     [exec] [armeabi-v7a] Install        : libOniFile.so => libs/armeabi-v7a/libOniFile.so
+     [exec] [armeabi-v7a] Install        : libOpenNI2.so => libs/armeabi-v7a/libOpenNI2.so
+     [exec] [armeabi-v7a] Install        : libOpenNI2.jni.so => libs/armeabi-v7a/libOpenNI2.jni.so
+     [exec] [armeabi-v7a] Install        : libPS1080.so => libs/armeabi-v7a/libPS1080.so
+     [exec] [armeabi-v7a] Install        : libPSLink.so => libs/armeabi-v7a/libPSLink.so
+     [exec] [armeabi-v7a] Install        : libusb.so => libs/armeabi-v7a/libusb.so
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at C:\Software\android-sdk
+
+-setup:
+     [echo] Project Name: OpenNIForAndroid
+  [gettype] Project Type: Android Library
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0 rc3
+     [echo] Resolving Build Target for OpenNIForAndroid...
+[gettarget] Project Target:   Android 5.1.1
+[gettarget] API level:        22
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: C:\Software\OpenNI2-develop\Wrappers\java\bin\rsObj
+    [mkdir] Created dir: C:\Software\OpenNI2-develop\Wrappers\java\bin\rsLibs
+     [echo] ----------
+     [echo] Resolving Dependencies for OpenNIForAndroid...
+[dependency] Library dependencies:
+[dependency] No Libraries
+[dependency] 
+[dependency] ------------------
+
+-code-gen:
+[mergemanifest] Found Deleted Target File
+[mergemanifest] Merging AndroidManifest files into one.
+[mergemanifest] Manifest merger disabled. Using project manifest only.
+     [echo] Handling aidl files...
+     [aidl] No AIDL files to compile.
+     [echo] ----------
+     [echo] Handling RenderScript files...
+     [echo] ----------
+     [echo] Handling Resources...
+     [aapt] Found new input file
+     [aapt] Generating resource IDs...
+     [aapt]     (skipping file '.gitignore' due to ANDROID_AAPT_IGNORE pattern '.*')
+     [echo] ----------
+     [echo] Handling BuildConfig class...
+[buildconfig] No need to generate new BuildConfig.
+
+-pre-compile:
+
+-compile:
+     [echo] Creating library output jar file...
+
+-post-compile:
+
+-obfuscate:
+
+-dex:
+     [echo] Library project: do not convert bytecode...
+
+-crunch:
+   [crunch] Crunching PNG Files in source dir: C:\Software\OpenNI2-develop\Wrappers\java\res
+   [crunch] To destination dir: C:\Software\OpenNI2-develop\Wrappers\java\bin\res
+   [crunch] Crunched 0 PNG files to update cache
+
+-package-resources:
+     [echo] Library project: do not package resources...
+
+-package:
+     [echo] Library project: do not package apk...
+
+-post-package:
+
+-release-prompt-for-password:
+
+-release-nosign:
+     [echo] 
+[propertyfile] Updating property file: C:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+[propertyfile] Updating property file: C:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+[propertyfile] Updating property file: C:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+[propertyfile] Updating property file: C:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+
+-release-sign:
+
+-post-build:
+
+release:
+
+-code-gen:
+[mergemanifest] Merging AndroidManifest files into one.
+[mergemanifest] Manifest merger disabled. Using project manifest only.
+     [echo] Handling aidl files...
+     [aidl] No AIDL files to compile.
+     [echo] ----------
+     [echo] Handling RenderScript files...
+     [echo] ----------
+     [echo] Handling Resources...
+     [aapt] Generating resource IDs...
+     [aapt]     (skipping file '.gitignore' due to ANDROID_AAPT_IGNORE pattern '.*')
+     [echo] ----------
+     [echo] Handling BuildConfig class...
+[buildconfig] Generating BuildConfig class.
+
+-pre-compile:
+
+-compile:
+    [javac] Compiling 3 source files to c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\classes
+    [javac] warning: [options] source value 1.5 is obsolete and will be removed in a future release
+    [javac] warning: [options] target value 1.5 is obsolete and will be removed in a future release
+    [javac] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+    [javac] 3 warnings
+
+-post-compile:
+
+-obfuscate:
+
+-dex:
+      [dex] input: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\classes
+      [dex] input: C:\Software\OpenNI2-develop\Wrappers\java\bin\classes.jar
+      [dex] Pre-Dexing C:\Software\OpenNI2-develop\Wrappers\java\bin\classes.jar -> classes-da66834370ced4ee462a86c23b55f95f.jar
+      [dex] Converting compiled files and external libraries into c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\classes.dex...
+       [dx] Merged dex A (13 defs/9.0KiB) with dex B (30 defs/39.1KiB). Result is 43 defs/55.4KiB. Took 0.1s
+
+-crunch:
+   [crunch] Crunching PNG Files in source dir: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\res
+   [crunch] To destination dir: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\res
+   [crunch] Processing image to cache: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\res\drawable-hdpi\ic_launcher.png => c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\res\drawable-hdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\res\drawable-hdpi\ic_launcher.png: 53% size of source)
+   [crunch] Processing image to cache: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\res\drawable-mdpi\ic_launcher.png => c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\res\drawable-mdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\res\drawable-mdpi\ic_launcher.png: 0% size of source)
+   [crunch] Processing image to cache: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\res\drawable-xhdpi\ic_launcher.png => c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\res\drawable-xhdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\res\drawable-xhdpi\ic_launcher.png: 65% size of source)
+   [crunch] Processing image to cache: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\res\drawable-xxhdpi\ic_launcher.png => c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\res\drawable-xxhdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\res\drawable-xxhdpi\ic_launcher.png: 66% size of source)
+   [crunch] Crunched 4 PNG files to update cache
+
+-package-resources:
+     [aapt] Creating full resource package...
+     [aapt]     (skipping file '.gitignore' due to ANDROID_AAPT_IGNORE pattern '.*')
+
+-package:
+[apkbuilder] Current build type is different than previous build: forced apkbuilder run.
+[apkbuilder] Creating SimpleRead-release-unsigned.apk for release...
+
+-post-package:
+
+-release-prompt-for-password:
+
+-release-nosign:
+     [echo] No key.store and key.alias properties found in build.properties.
+     [echo] Please sign c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\SimpleRead-release-unsigned.apk manually
+     [echo] and run zipalign from the Android SDK tools.
+[propertyfile] Creating new property file: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\build.prop
+[propertyfile] Updating property file: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\build.prop
+[propertyfile] Updating property file: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\build.prop
+[propertyfile] Updating property file: c:\Software\OpenNI2-develop\Samples\SimpleRead.Android\bin\build.prop
+
+-release-sign:
+
+-post-build:
+
+release:
+
+BUILD SUCCESSFUL
+Total time: 15 seconds
+Updated local.properties
+Updated file C:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\proguard-project.txt
+Buildfile: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\build.xml
+
+-set-mode-check:
+
+-set-release-mode:
+
+-release-obfuscation-check:
+     [echo] proguard.config is ${proguard.config}
+
+-pre-build:
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at C:\Software\android-sdk
+
+-setup:
+     [echo] Project Name: SimpleViewer
+  [gettype] Project Type: Application
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0 rc3
+     [echo] Resolving Build Target for SimpleViewer...
+[gettarget] Project Target:   Android 5.1.1
+[gettarget] API level:        22
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\res
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\rsObj
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\rsLibs
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\gen
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\classes
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\dexedLibs
+     [echo] ----------
+     [echo] Resolving Dependencies for SimpleViewer...
+[dependency] Library dependencies:
+[dependency] 
+[dependency] ------------------
+[dependency] Ordered libraries:
+[dependency] 
+[dependency] ------------------
+     [echo] ----------
+     [echo] Building Libraries with 'release'...
+
+nodeps:
+
+-set-mode-check:
+
+-set-release-mode:
+
+-release-obfuscation-check:
+     [echo] proguard.config is ${proguard.config}
+
+-pre-build:
+     [exec] Android NDK: WARNING: APP_PLATFORM android-21 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+     [exec] [armeabi-v7a] Install        : libOniFile.so => libs/armeabi-v7a/libOniFile.so
+     [exec] [armeabi-v7a] Install        : libOpenNI2.so => libs/armeabi-v7a/libOpenNI2.so
+     [exec] [armeabi-v7a] Install        : libOpenNI2.jni.so => libs/armeabi-v7a/libOpenNI2.jni.so
+     [exec] [armeabi-v7a] Install        : libPS1080.so => libs/armeabi-v7a/libPS1080.so
+     [exec] [armeabi-v7a] Install        : libPSLink.so => libs/armeabi-v7a/libPSLink.so
+     [exec] [armeabi-v7a] Install        : libusb.so => libs/armeabi-v7a/libusb.so
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at C:\Software\android-sdk
+
+-setup:
+     [echo] Project Name: OpenNIForAndroid
+  [gettype] Project Type: Android Library
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0 rc3
+     [echo] Resolving Build Target for OpenNIForAndroid...
+[gettarget] Project Target:   Android 5.1.1
+[gettarget] API level:        22
+     [echo] ----------
+     [echo] Creating output directories if needed...
+     [echo] ----------
+     [echo] Resolving Dependencies for OpenNIForAndroid...
+[dependency] Library dependencies:
+[dependency] No Libraries
+[dependency] 
+[dependency] ------------------
+
+-code-gen:
+[mergemanifest] Found Deleted Target File
+[mergemanifest] Merging AndroidManifest files into one.
+[mergemanifest] Manifest merger disabled. Using project manifest only.
+     [echo] Handling aidl files...
+     [aidl] No AIDL files to compile.
+     [echo] ----------
+     [echo] Handling RenderScript files...
+     [echo] ----------
+     [echo] Handling Resources...
+     [aapt] Found new input file
+     [aapt] Generating resource IDs...
+     [aapt]     (skipping file '.gitignore' due to ANDROID_AAPT_IGNORE pattern '.*')
+     [echo] ----------
+     [echo] Handling BuildConfig class...
+[buildconfig] No need to generate new BuildConfig.
+
+-pre-compile:
+
+-compile:
+     [echo] Creating library output jar file...
+
+-post-compile:
+
+-obfuscate:
+
+-dex:
+     [echo] Library project: do not convert bytecode...
+
+-crunch:
+   [crunch] Crunching PNG Files in source dir: C:\Software\OpenNI2-develop\Wrappers\java\res
+   [crunch] To destination dir: C:\Software\OpenNI2-develop\Wrappers\java\bin\res
+   [crunch] Crunched 0 PNG files to update cache
+
+-package-resources:
+     [echo] Library project: do not package resources...
+
+-package:
+     [echo] Library project: do not package apk...
+
+-post-package:
+
+-release-prompt-for-password:
+
+-release-nosign:
+     [echo] 
+[propertyfile] Updating property file: C:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+[propertyfile] Updating property file: C:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+[propertyfile] Updating property file: C:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+[propertyfile] Updating property file: C:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+
+-release-sign:
+
+-post-build:
+
+release:
+
+-code-gen:
+[mergemanifest] Merging AndroidManifest files into one.
+[mergemanifest] Manifest merger disabled. Using project manifest only.
+     [echo] Handling aidl files...
+     [aidl] No AIDL files to compile.
+     [echo] ----------
+     [echo] Handling RenderScript files...
+     [echo] ----------
+     [echo] Handling Resources...
+     [aapt] Generating resource IDs...
+     [aapt]     (skipping file '.gitignore' due to ANDROID_AAPT_IGNORE pattern '.*')
+     [echo] ----------
+     [echo] Handling BuildConfig class...
+[buildconfig] Generating BuildConfig class.
+
+-pre-compile:
+
+-compile:
+    [javac] Compiling 3 source files to c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\classes
+    [javac] warning: [options] source value 1.5 is obsolete and will be removed in a future release
+    [javac] warning: [options] target value 1.5 is obsolete and will be removed in a future release
+    [javac] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+    [javac] 3 warnings
+
+-post-compile:
+
+-obfuscate:
+
+-dex:
+      [dex] input: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\classes
+      [dex] input: C:\Software\OpenNI2-develop\Wrappers\java\bin\classes.jar
+      [dex] Pre-Dexing C:\Software\OpenNI2-develop\Wrappers\java\bin\classes.jar -> classes-da66834370ced4ee462a86c23b55f95f.jar
+      [dex] Converting compiled files and external libraries into c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\classes.dex...
+       [dx] Merged dex A (13 defs/9.7KiB) with dex B (30 defs/39.1KiB). Result is 43 defs/56.2KiB. Took 0.3s
+
+-crunch:
+   [crunch] Crunching PNG Files in source dir: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\res
+   [crunch] To destination dir: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\res
+   [crunch] Processing image to cache: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\res\drawable-hdpi\ic_launcher.png => c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\res\drawable-hdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\res\drawable-hdpi\ic_launcher.png: 53% size of source)
+   [crunch] Processing image to cache: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\res\drawable-mdpi\ic_launcher.png => c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\res\drawable-mdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\res\drawable-mdpi\ic_launcher.png: 0% size of source)
+   [crunch] Processing image to cache: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\res\drawable-xhdpi\ic_launcher.png => c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\res\drawable-xhdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\res\drawable-xhdpi\ic_launcher.png: 65% size of source)
+   [crunch] Processing image to cache: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\res\drawable-xxhdpi\ic_launcher.png => c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\res\drawable-xxhdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\res\drawable-xxhdpi\ic_launcher.png: 66% size of source)
+   [crunch] Crunched 4 PNG files to update cache
+
+-package-resources:
+     [aapt] Creating full resource package...
+     [aapt]     (skipping file '.gitignore' due to ANDROID_AAPT_IGNORE pattern '.*')
+
+-package:
+[apkbuilder] Current build type is different than previous build: forced apkbuilder run.
+[apkbuilder] Creating SimpleViewer-release-unsigned.apk for release...
+
+-post-package:
+
+-release-prompt-for-password:
+
+-release-nosign:
+     [echo] No key.store and key.alias properties found in build.properties.
+     [echo] Please sign c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\SimpleViewer-release-unsigned.apk manually
+     [echo] and run zipalign from the Android SDK tools.
+[propertyfile] Creating new property file: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\build.prop
+[propertyfile] Updating property file: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\build.prop
+[propertyfile] Updating property file: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\build.prop
+[propertyfile] Updating property file: c:\Software\OpenNI2-develop\Samples\SimpleViewer.Android\bin\build.prop
+
+-release-sign:
+
+-post-build:
+
+release:
+
+BUILD SUCCESSFUL
+Total time: 21 seconds
+Updated local.properties
+Updated file C:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\proguard-project.txt
+Buildfile: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\build.xml
+
+-set-mode-check:
+
+-set-release-mode:
+
+-release-obfuscation-check:
+     [echo] proguard.config is ${proguard.config}
+
+-pre-build:
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at C:\Software\android-sdk
+
+-setup:
+     [echo] Project Name: NiViewer
+  [gettype] Project Type: Application
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0 rc3
+     [echo] Resolving Build Target for NiViewer...
+[gettarget] Project Target:   Android 5.1.1
+[gettarget] API level:        22
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\res
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\rsObj
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\rsLibs
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\gen
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\classes
+    [mkdir] Created dir: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\dexedLibs
+     [echo] ----------
+     [echo] Resolving Dependencies for NiViewer...
+[dependency] Library dependencies:
+[dependency] 
+[dependency] ------------------
+[dependency] Ordered libraries:
+[dependency] 
+[dependency] ------------------
+     [echo] ----------
+     [echo] Building Libraries with 'release'...
+
+nodeps:
+
+-set-mode-check:
+
+-set-release-mode:
+
+-release-obfuscation-check:
+     [echo] proguard.config is ${proguard.config}
+
+-pre-build:
+     [exec] Android NDK: WARNING: APP_PLATFORM android-21 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+     [exec] [armeabi-v7a] Install        : libOniFile.so => libs/armeabi-v7a/libOniFile.so
+     [exec] [armeabi-v7a] Install        : libOpenNI2.so => libs/armeabi-v7a/libOpenNI2.so
+     [exec] [armeabi-v7a] Install        : libOpenNI2.jni.so => libs/armeabi-v7a/libOpenNI2.jni.so
+     [exec] [armeabi-v7a] Install        : libPS1080.so => libs/armeabi-v7a/libPS1080.so
+     [exec] [armeabi-v7a] Install        : libPSLink.so => libs/armeabi-v7a/libPSLink.so
+     [exec] [armeabi-v7a] Install        : libusb.so => libs/armeabi-v7a/libusb.so
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at C:\Software\android-sdk
+
+-setup:
+     [echo] Project Name: OpenNIForAndroid
+  [gettype] Project Type: Android Library
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0 rc3
+     [echo] Resolving Build Target for OpenNIForAndroid...
+[gettarget] Project Target:   Android 5.1.1
+[gettarget] API level:        22
+     [echo] ----------
+     [echo] Creating output directories if needed...
+     [echo] ----------
+     [echo] Resolving Dependencies for OpenNIForAndroid...
+[dependency] Library dependencies:
+[dependency] No Libraries
+[dependency] 
+[dependency] ------------------
+
+-code-gen:
+[mergemanifest] Found Deleted Target File
+[mergemanifest] Merging AndroidManifest files into one.
+[mergemanifest] Manifest merger disabled. Using project manifest only.
+     [echo] Handling aidl files...
+     [aidl] No AIDL files to compile.
+     [echo] ----------
+     [echo] Handling RenderScript files...
+     [echo] ----------
+     [echo] Handling Resources...
+     [aapt] Found new input file
+     [aapt] Generating resource IDs...
+     [aapt]     (skipping file '.gitignore' due to ANDROID_AAPT_IGNORE pattern '.*')
+     [echo] ----------
+     [echo] Handling BuildConfig class...
+[buildconfig] No need to generate new BuildConfig.
+
+-pre-compile:
+
+-compile:
+     [echo] Creating library output jar file...
+
+-post-compile:
+
+-obfuscate:
+
+-dex:
+     [echo] Library project: do not convert bytecode...
+
+-crunch:
+   [crunch] Crunching PNG Files in source dir: C:\Software\OpenNI2-develop\Wrappers\java\res
+   [crunch] To destination dir: C:\Software\OpenNI2-develop\Wrappers\java\bin\res
+   [crunch] Crunched 0 PNG files to update cache
+
+-package-resources:
+     [echo] Library project: do not package resources...
+
+-package:
+     [echo] Library project: do not package apk...
+
+-post-package:
+
+-release-prompt-for-password:
+
+-release-nosign:
+     [echo] 
+[propertyfile] Updating property file: C:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+[propertyfile] Updating property file: C:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+[propertyfile] Updating property file: C:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+[propertyfile] Updating property file: C:\Software\OpenNI2-develop\Wrappers\java\bin\build.prop
+
+-release-sign:
+
+-post-build:
+
+release:
+
+-code-gen:
+[mergemanifest] Merging AndroidManifest files into one.
+[mergemanifest] Manifest merger disabled. Using project manifest only.
+     [echo] Handling aidl files...
+     [aidl] No AIDL files to compile.
+     [echo] ----------
+     [echo] Handling RenderScript files...
+     [echo] ----------
+     [echo] Handling Resources...
+     [aapt] Generating resource IDs...
+     [aapt]     (skipping file '.gitignore' due to ANDROID_AAPT_IGNORE pattern '.*')
+     [echo] ----------
+     [echo] Handling BuildConfig class...
+[buildconfig] Generating BuildConfig class.
+
+-pre-compile:
+
+-compile:
+    [javac] Compiling 5 source files to c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\classes
+    [javac] warning: [options] source value 1.5 is obsolete and will be removed in a future release
+    [javac] warning: [options] target value 1.5 is obsolete and will be removed in a future release
+    [javac] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+    [javac] 3 warnings
+
+-post-compile:
+
+-obfuscate:
+
+-dex:
+      [dex] input: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\classes
+      [dex] input: C:\Software\OpenNI2-develop\Wrappers\java\bin\classes.jar
+      [dex] Pre-Dexing C:\Software\OpenNI2-develop\Wrappers\java\bin\classes.jar -> classes-da66834370ced4ee462a86c23b55f95f.jar
+      [dex] Converting compiled files and external libraries into c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\classes.dex...
+       [dx] Merged dex A (21 defs/22.5KiB) with dex B (30 defs/39.1KiB). Result is 51 defs/71.2KiB. Took 0.3s
+
+-crunch:
+   [crunch] Crunching PNG Files in source dir: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\res
+   [crunch] To destination dir: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\res
+   [crunch] Processing image to cache: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\res\drawable-hdpi\ic_launcher.png => c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\res\drawable-hdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\res\drawable-hdpi\ic_launcher.png: 53% size of source)
+   [crunch] Processing image to cache: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\res\drawable-mdpi\ic_launcher.png => c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\res\drawable-mdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\res\drawable-mdpi\ic_launcher.png: 0% size of source)
+   [crunch] Processing image to cache: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\res\drawable-xhdpi\ic_launcher.png => c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\res\drawable-xhdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\res\drawable-xhdpi\ic_launcher.png: 65% size of source)
+   [crunch] Processing image to cache: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\res\drawable-xxhdpi\ic_launcher.png => c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\res\drawable-xxhdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\res\drawable-xxhdpi\ic_launcher.png: 66% size of source)
+   [crunch] Crunched 4 PNG files to update cache
+
+-package-resources:
+     [aapt] Creating full resource package...
+     [aapt]     (skipping file '.gitignore' due to ANDROID_AAPT_IGNORE pattern '.*')
+
+-package:
+[apkbuilder] Current build type is different than previous build: forced apkbuilder run.
+[apkbuilder] Creating NiViewer-release-unsigned.apk for release...
+
+-post-package:
+
+-release-prompt-for-password:
+
+-release-nosign:
+     [echo] No key.store and key.alias properties found in build.properties.
+     [echo] Please sign c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\NiViewer-release-unsigned.apk manually
+     [echo] and run zipalign from the Android SDK tools.
+[propertyfile] Creating new property file: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\build.prop
+[propertyfile] Updating property file: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\build.prop
+[propertyfile] Updating property file: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\build.prop
+[propertyfile] Updating property file: c:\Software\OpenNI2-develop\Source\Tools\NiViewer.Android\bin\build.prop
+
+-release-sign:
+
+-post-build:
+
+release:
+
+BUILD SUCCESSFUL
+Total time: 22 seconds
+Updated local.properties
+Updated file C:\Software\OpenNI2-develop\Wrappers\java\proguard-project.txt
+It seems that there are sub-projects. If you want to update them
+please use the --subprojects parameter.
+Buildfile: c:\Software\OpenNI2-develop\Wrappers\java\build.xml
+
+javadoc:
+  [javadoc] Generating Javadoc
+  [javadoc] Javadoc execution
+  [javadoc] Loading source files for package org.openni...
+  [javadoc] Loading source files for package org.openni.android...
+  [javadoc] Constructing Javadoc information...
+  [javadoc] Standard Doclet version 1.8.0
+  [javadoc] Building tree for all the packages and classes...
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\CoordinateConverter.java:77: error: unknown tag: Integer
+  [javadoc] 	 * @return Point3D<Integer> Coordinate of the output value, and depth measured in the
+  [javadoc] 	                  ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\CoordinateConverter.java:108: error: unknown tag: t
+  [javadoc] 	 *         <t> the Y coordinate of the output value, measured in pixels with 0.0 at the top of the
+  [javadoc] 	           ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\CoordinateConverter.java:111: error: unknown tag: t
+  [javadoc] 	 *         <t> the Z(depth) coordinate of the output value, measured in millimeters with 0.0 at
+  [javadoc] 	           ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\CoordinateConverter.java:138: error: unknown tag: Float
+  [javadoc] 	 * @return Point3D<Float> to a place to store the X,Y,Z coordinate of the output value, measured
+  [javadoc] 	                  ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\CoordinateConverter.java:166: error: unknown tag: Float
+  [javadoc] 	 * @return Point3D<Float> to a place to store the X coordinate of the output value, measured in
+  [javadoc] 	                  ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\Device.java:68: warning: no @return
+  [javadoc] 	public static Device open(String uri) {
+  [javadoc] 	                     ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\Device.java:85: warning: no @return
+  [javadoc] 	public static Device open() {
+  [javadoc] 	                     ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\Device.java:171: warning: no @param for mode
+  [javadoc] 	public boolean isImageRegistrationModeSupported(ImageRegistrationMode mode) {
+  [javadoc] 	               ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\OpenNI.java:190: warning: no @throws for java.util.concurrent.TimeoutException
+  [javadoc] 	public static int waitForAnyStream(List<VideoStream> streams, int timeout) throws TimeoutException {
+  [javadoc] 	                  ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\OpenNI.java:73: warning: no @param for info
+  [javadoc] 		void onDeviceConnected(DeviceInfo info);
+  [javadoc] 		     ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\OpenNI.java:102: warning: no @param for info
+  [javadoc] 		void onDeviceDisconnected(DeviceInfo info);
+  [javadoc] 		     ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\OpenNI.java:125: warning: no @param for info
+  [javadoc] 		void onDeviceStateChanged(DeviceInfo info, int deviceState);
+  [javadoc] 		     ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\OpenNI.java:125: warning: no @param for deviceState
+  [javadoc] 		void onDeviceStateChanged(DeviceInfo info, int deviceState);
+  [javadoc] 		     ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\PlaybackControl.java:60: warning: no @return
+  [javadoc] 	public float getSpeed() {
+  [javadoc] 	             ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\Recorder.java:49: warning: no @return
+  [javadoc] 	public static Recorder create(String fileName) {
+  [javadoc] 	                       ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\VideoFrameRef.java:126: warning: no @return
+  [javadoc] 	public int getHeight() {
+  [javadoc] 	           ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\VideoStream.java:156: warning: no @return
+  [javadoc] 	public static VideoStream create(Device device, SensorType sensorType) {
+  [javadoc] 	                          ^
+  [javadoc] c:\Software\OpenNI2-develop\Wrappers\java\src\org\openni\VideoStream.java:144: warning: no @param for stream
+  [javadoc] 		public void onFrameReady(VideoStream stream);
+  [javadoc] 		            ^
+  [javadoc] Building index for all the packages and classes...
+  [javadoc] Building index for all classes...
+  [javadoc] Generating c:\Software\OpenNI2-develop\Wrappers\java\doc\gen\help-doc.html...
+  [javadoc] 5 errors
+  [javadoc] 13 warnings
+
+BUILD SUCCESSFUL
+Total time: 8 seconds
+**** Cleaning Wrappers/java...****
+**** Cleaning Samples/SimpleRead.Android...****
+**** Cleaning Samples/SimpleViewer.Android...****
+**** Cleaning Source/Tools/NiViewer.Android...****
+**** Building Wrappers/java...****
+**** Building Samples/SimpleRead.Android...****
+**** Building Samples/SimpleViewer.Android...****
+**** Building Source/Tools/NiViewer.Android...****

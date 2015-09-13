@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jbzip2-0.9.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../jbzip2-0.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

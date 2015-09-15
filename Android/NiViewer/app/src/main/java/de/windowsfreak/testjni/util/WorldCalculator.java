@@ -71,7 +71,7 @@ public class WorldCalculator {
         return new float[]{
                 coeffX * worldX / worldZmm + halfResX,
                 halfResY - coeffY * worldY / worldZmm,
-                worldZ
+                worldZ // NOT worldZmm, as in http://forums.structure.io/t/openni-coordinate-conversion-not-correct/4358/2
         };
     }
 
